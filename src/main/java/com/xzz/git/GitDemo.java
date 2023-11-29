@@ -7,5 +7,6 @@ public class GitDemo {
         System.out.println("Hello git01!");
         System.out.println("Hello git02");
         System.out.println("master commit");
+        System.out.println("hot-fix commit");
     }
 }
